@@ -1,0 +1,14 @@
+{
+  "packages": ["packages/*"],
+  "version": "independent",
+  "npmClient": "npm",
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "gitRemote": "pub",
+      "allowBranch": ["master"],
+      "ignoreChanges": ["*.md", "**/*.spec.ts"],
+      "message": "chore(release): publish [skip ci]"
+    }
+  }
+}

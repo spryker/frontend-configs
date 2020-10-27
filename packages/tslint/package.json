@@ -1,0 +1,6 @@
+{
+  "name": "@spryker/frontend-config.tslint",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "lib/index.js"
+}
