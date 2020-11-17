@@ -2,7 +2,6 @@
     "extends": "tslint:recommended",
     "rules": {
         "array-type": false,
-        "arrow-parens": false,
         "component-class-suffix": true,
         "component-selector": [true, "element", "kebab-case", "mp"],
         "contextual-lifecycle": true,
@@ -14,7 +13,6 @@
         "import-blacklist": [true, "rxjs/Rx"],
         "interface-name": false,
         "max-classes-per-file": false,
-        "max-line-length": [true, 140],
         "member-access": false,
         "member-ordering": [
             true,
@@ -23,9 +21,8 @@
             }
         ],
         "no-conflicting-lifecycle": true,
-        "no-consecutive-blank-lines": false,
-        "no-console": [true, "debug", "info", "time", "timeEnd", "trace"],
-        "no-empty": false,
+        "no-console": true,
+        "no-empty": true,
         "no-host-metadata-property": false,
         "no-inferrable-types": [true, "ignore-params"],
         "no-input-rename": true,
@@ -38,13 +35,10 @@
         "no-redundant-jsdoc": true,
         "no-switch-case-fall-through": true,
         "no-var-requires": false,
-        "object-literal-key-quotes": [true, "as-needed"],
         "object-literal-sort-keys": false,
         "ordered-imports": false,
-        "quotemark": [true, "single"],
         "template-banana-in-box": true,
         "template-no-negated-async": true,
-        "trailing-comma": false,
         "use-lifecycle-interface": true,
         "use-pipe-transform-interface": true
     },
