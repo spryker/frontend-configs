@@ -1,6 +1,5 @@
 {
   "name": "@spryker/frontend-config.prettier",
   "version": "0.0.0",
-  "license": "MIT",
-  "main": "lib/index.js"
+  "license": "MIT"
 }
