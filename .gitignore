@@ -1,0 +1,26 @@
+# IDEs
+/.idea
+/.project
+/nbproject
+/.buildpath
+/.settings
+*.sublime-*
+*.AppleDouble
+*.AppleDB
+*.AppleDesktop
+Temporary Items
+.apdisk
+GPATH
+GRTAGS
+GTAGS
+
+# logs
+npm-debug.log
+
+# tools
+.githook_local
+
+# Yarn
+.yarn/*
+!.yarn/releases/
+!.yarn/plugins/

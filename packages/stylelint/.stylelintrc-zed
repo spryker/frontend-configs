@@ -73,11 +73,9 @@
         ],
         "selector-max-attribute": 1,
         "selector-max-class": 2,
-        "selector-max-combinators": 2,
         "selector-max-compound-selectors": 3,
         "selector-max-id": 1,
         "selector-max-pseudo-class": 2,
-        "selector-max-type": 2,
         "selector-max-universal": 1,
         "selector-no-qualifying-type": [
             true,
