@@ -2,8 +2,7 @@
   "name": "@spryker/frontend-config",
   "private": true,
   "scripts": {
-    "release": "lerna publish --yes --conventional-graduate",
-    "release:tag": "lerna publish --yes --conventional-prerelease --dist-tag $RELEASE_TAG --preid $RELEASE_TAG"
+    "release": "lerna publish --yes"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
