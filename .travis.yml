@@ -22,3 +22,11 @@ jobs:
             tags: false
             all_branches: true
             condition: '$TRAVIS_BRANCH =~ ^(master)$'
+        - provider: script
+          script: npm run release -- from-package
+          skip_cleanup: true
+          keep_history: true
+          on:
+            tags: false
+            all_branches: true
+            condition: '$TRAVIS_BRANCH =~ ^(master/republish)$'
