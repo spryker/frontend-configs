@@ -5,7 +5,8 @@
 ## Usage
 
 ```
-const tslintConfig = require('@spryker/frontend-config.tslint');
+const tslintConfig = require('@spryker/frontend-config.tslint/tslint.json');
+const tslintMpConfig = require('@spryker/frontend-config.tslint/tslint.mp.json');
 
 // TODO: DEMONSTRATE API
 ```
