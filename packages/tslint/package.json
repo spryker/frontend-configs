@@ -1,6 +1,6 @@
 {
   "name": "@spryker/frontend-config.tslint",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
