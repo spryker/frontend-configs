@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.4](https://github.com/spryker/frontend-configs/compare/@spryker/frontend-config.stylelint@0.0.3...@spryker/frontend-config.stylelint@0.0.4) (2020-12-11)
+
+**Note:** Version bump only for package @spryker/frontend-config.stylelint
+
+
+
+
+
 ## [0.0.3](https://github.com/spryker/frontend-configs/compare/@spryker/frontend-config.stylelint@0.0.2...@spryker/frontend-config.stylelint@0.0.3) (2020-12-03)
 
 
