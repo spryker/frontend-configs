@@ -16,6 +16,13 @@
             "files": "*.xml",
             "options": {
                 "printWidth": 140
+            },
+            "excludeFiles": ["*.schema.xml", "*.transfer.xml"]
+        },
+        {
+            "files": ["*.schema.xml", "*.transfer.xml"],
+            "options": {
+                "printWidth": 300
             }
         }
     ]
