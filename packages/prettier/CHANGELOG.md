@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.4](https://github.com/spryker/frontend-configs/compare/@spryker/frontend-config.prettier@0.0.3...@spryker/frontend-config.prettier@0.0.4) (2021-05-04)
+
+
+### Bug Fixes
+
+* **prettier:** extend line width for xml files to 140 ([75409c8](https://github.com/spryker/frontend-configs/commit/75409c87567a82a72ddb0b9dc255f254f0203799))
+
+
+
+
+
 ## [0.0.3](https://github.com/spryker/frontend-configs/compare/@spryker/frontend-config.prettier@0.0.2...@spryker/frontend-config.prettier@0.0.3) (2021-05-04)
 
 
