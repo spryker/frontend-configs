@@ -2,7 +2,8 @@
   "name": "@spryker/frontend-config",
   "private": true,
   "scripts": {
-    "release": "lerna publish --yes"
+    "release": "lerna publish --yes",
+    "test": "echo no test"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
