@@ -30,6 +30,11 @@ module.exports = {
         "camelcase": ["error", { "properties": "always" }],
         "eqeqeq": ["error", "always", { "null": "ignore" }],
         "handle-callback-err": ["error", "^(err|error)$" ],
+        "max-lines": ["error", {
+            "max": 200,
+            "skipBlankLines": true,
+            "skipComments": true
+        }],
         "new-cap": ["error", {
             "newIsCap": true,
             "capIsNew": false
@@ -38,6 +43,7 @@ module.exports = {
         "no-caller": "error",
         "no-compare-neg-zero": "error",
         "no-cond-assign": ["error", "always"],
+        "no-console": "error",
         "no-constant-condition": ["error", { "checkLoops": false }],
         "no-control-regex": "error",
         "no-debugger": "error",
