@@ -5,7 +5,11 @@
     "release": "lerna publish --yes",
     "test": "echo no test"
   },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
   "devDependencies": {
-    "lerna": "^3.22.1"
+    "lerna": "~6.6.2"
   }
 }
