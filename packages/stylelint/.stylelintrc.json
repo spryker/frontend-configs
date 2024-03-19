@@ -17,8 +17,8 @@
                 ]
             }
         ],
-        "at-rule-no-vendor-prefix": true,
         "block-no-empty": true,
+        "at-rule-no-vendor-prefix": true,
         "color-named": "never",
         "color-no-invalid-hex": true,
         "comment-empty-line-before": [
