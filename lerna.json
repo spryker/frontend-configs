@@ -6,7 +6,7 @@
     "publish": {
       "conventionalCommits": true,
       "gitRemote": "pub",
-      "allowBranch": ["master"],
+      "allowBranch": ["master", "republish/master"],
       "ignoreChanges": ["*.md", "**/*.spec.ts"],
       "message": "chore(release): publish [skip ci]"
     }
